@@ -150,3 +150,11 @@ ul{
 .products-section .columns{
     margin: auto rem-calc(20px);
 }
+
+.benefits-section {
+    width: 100vw;
+}
+
+.benefits-section .row{
+    max-width: 100vw;
+}
